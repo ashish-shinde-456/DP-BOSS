@@ -1,0 +1,625 @@
+{
+  "goldenAnk": "1-6-0-5",
+  "finalAnk": [
+    {
+      "market": "KALYAN MORNING",
+      "value": "6"
+    },
+    {
+      "market": "MILAN MORNING",
+      "value": "0"
+    },
+    {
+      "market": "SRIDEVI",
+      "value": "0"
+    },
+    {
+      "market": "MAIN BAZAR MORNING",
+      "value": "6"
+    },
+    {
+      "market": "MADHURI",
+      "value": "6"
+    },
+    {
+      "market": "SRIDEVI MORNING",
+      "value": "0"
+    },
+    {
+      "market": "KARNATAKA DAY",
+      "value": "6"
+    },
+    {
+      "market": "TIME BAZAR",
+      "value": "2"
+    },
+    {
+      "market": "MILAN DAY",
+      "value": "2"
+    },
+    {
+      "market": "MUMBAI MORNING",
+      "value": "0"
+    },
+    {
+      "market": "NEW TIME BAZAR",
+      "value": "8"
+    },
+    {
+      "market": "KALYAN",
+      "value": "8"
+    },
+    {
+      "market": "SRIDEVI NIGHT",
+      "value": "6"
+    },
+    {
+      "market": "MADHURI NIGHT",
+      "value": "2"
+    },
+    {
+      "market": "MILAN NIGHT",
+      "value": "4"
+    },
+    {
+      "market": "RAJDHANI NIGHT",
+      "value": "8"
+    },
+    {
+      "market": "MAIN BAZAR",
+      "value": "6"
+    },
+    {
+      "market": "BOMBAY DAY",
+      "value": "6"
+    },
+    {
+      "market": "KALYAN NIGHT",
+      "value": "8"
+    },
+    {
+      "market": "OLD MAIN MUMBAI",
+      "value": "4"
+    },
+    {
+      "market": "MADHUR DAY",
+      "value": "8"
+    },
+    {
+      "market": "MADHUR NIGHT",
+      "value": "0"
+    },
+    {
+      "market": "SUNDAY BAZAR",
+      "value": "2"
+    },
+    {
+      "market": "CITY BAZAR DAY",
+      "value": "4"
+    },
+    {
+      "market": "CITY BAZAR NIGHT",
+      "value": "4"
+    }
+  ],
+  "latestResult": "3 ♥",
+  "latestTime": "07:50 PM",
+  "recent": [
+    {
+      "time": "07:45 PM",
+      "result": "2 ♣"
+    },
+    {
+      "time": "07:40 PM",
+      "result": "9 ♣"
+    },
+    {
+      "time": "07:35 PM",
+      "result": "3 ♣"
+    },
+    {
+      "time": "07:30 PM",
+      "result": "5 ♠"
+    },
+    {
+      "time": "07:25 PM",
+      "result": "3 ♣"
+    },
+    {
+      "time": "07:20 PM",
+      "result": "2 ♦"
+    },
+    {
+      "time": "07:15 PM",
+      "result": "2 ♠"
+    },
+    {
+      "time": "07:10 PM",
+      "result": "8 ♠"
+    },
+    {
+      "time": "07:05 PM",
+      "result": "9 ♥"
+    },
+    {
+      "time": "07:00 PM",
+      "result": "10 ♥"
+    },
+    {
+      "time": "06:55 PM",
+      "result": "7 ♦"
+    },
+    {
+      "time": "06:50 PM",
+      "result": "3 ♣"
+    },
+    {
+      "time": "06:45 PM",
+      "result": "10 ♥"
+    },
+    {
+      "time": "06:40 PM",
+      "result": "10 ♥"
+    },
+    {
+      "time": "06:35 PM",
+      "result": "2 ♥"
+    },
+    {
+      "time": "06:30 PM",
+      "result": "3 ♦"
+    },
+    {
+      "time": "06:25 PM",
+      "result": "1 ♦"
+    },
+    {
+      "time": "06:20 PM",
+      "result": "JOKER"
+    },
+    {
+      "time": "06:15 PM",
+      "result": "5 ♣"
+    },
+    {
+      "time": "06:10 PM",
+      "result": "6 ♦"
+    },
+    {
+      "time": "06:05 PM",
+      "result": "5 ♥"
+    },
+    {
+      "time": "06:00 PM",
+      "result": "1 ♠"
+    },
+    {
+      "time": "05:55 PM",
+      "result": "10 ♠"
+    },
+    {
+      "time": "05:50 PM",
+      "result": "2 ♦"
+    },
+    {
+      "time": "05:45 PM",
+      "result": "5 ♠"
+    },
+    {
+      "time": "05:40 PM",
+      "result": "7 ♦"
+    },
+    {
+      "time": "05:35 PM",
+      "result": "1 ♥"
+    },
+    {
+      "time": "05:30 PM",
+      "result": "6 ♥"
+    },
+    {
+      "time": "05:25 PM",
+      "result": "10 ♥"
+    },
+    {
+      "time": "05:20 PM",
+      "result": "7 ♣"
+    },
+    {
+      "time": "05:15 PM",
+      "result": "6 ♦"
+    },
+    {
+      "time": "05:10 PM",
+      "result": "8 ♦"
+    },
+    {
+      "time": "05:05 PM",
+      "result": "7 ♣"
+    },
+    {
+      "time": "05:00 PM",
+      "result": "8 ♥"
+    },
+    {
+      "time": "04:55 PM",
+      "result": "1 ♠"
+    },
+    {
+      "time": "04:50 PM",
+      "result": "9 ♣"
+    },
+    {
+      "time": "04:45 PM",
+      "result": "5 ♦"
+    },
+    {
+      "time": "04:40 PM",
+      "result": "3 ♥"
+    },
+    {
+      "time": "04:35 PM",
+      "result": "9 ♥"
+    },
+    {
+      "time": "04:30 PM",
+      "result": "3 ♥"
+    },
+    {
+      "time": "04:25 PM",
+      "result": "9 ♠"
+    },
+    {
+      "time": "04:20 PM",
+      "result": "3 ♥"
+    },
+    {
+      "time": "04:15 PM",
+      "result": "4 ♥"
+    },
+    {
+      "time": "04:10 PM",
+      "result": "9 ♦"
+    },
+    {
+      "time": "04:05 PM",
+      "result": "9 ♠"
+    },
+    {
+      "time": "04:00 PM",
+      "result": "3 ♣"
+    },
+    {
+      "time": "03:55 PM",
+      "result": "8 ♦"
+    },
+    {
+      "time": "03:50 PM",
+      "result": "8 ♦"
+    },
+    {
+      "time": "03:45 PM",
+      "result": "2 ♦"
+    },
+    {
+      "time": "03:40 PM",
+      "result": "8 ♣"
+    },
+    {
+      "time": "03:35 PM",
+      "result": "9 ♠"
+    },
+    {
+      "time": "03:30 PM",
+      "result": "10 ♥"
+    },
+    {
+      "time": "03:25 PM",
+      "result": "5 ♥"
+    },
+    {
+      "time": "03:20 PM",
+      "result": "1 ♦"
+    },
+    {
+      "time": "03:15 PM",
+      "result": "3 ♦"
+    },
+    {
+      "time": "03:10 PM",
+      "result": "8 ♣"
+    },
+    {
+      "time": "03:05 PM",
+      "result": "1 ♦"
+    },
+    {
+      "time": "03:00 PM",
+      "result": "5 ♠"
+    },
+    {
+      "time": "02:55 PM",
+      "result": "6 ♠"
+    },
+    {
+      "time": "02:50 PM",
+      "result": "9 ♣"
+    },
+    {
+      "time": "02:45 PM",
+      "result": "2 ♦"
+    },
+    {
+      "time": "02:40 PM",
+      "result": "JOKER"
+    },
+    {
+      "time": "02:35 PM",
+      "result": "10 ♦"
+    },
+    {
+      "time": "02:30 PM",
+      "result": "9 ♣"
+    },
+    {
+      "time": "02:25 PM",
+      "result": "3 ♦"
+    },
+    {
+      "time": "02:20 PM",
+      "result": "1 ♦"
+    },
+    {
+      "time": "02:15 PM",
+      "result": "7 ♣"
+    },
+    {
+      "time": "02:10 PM",
+      "result": "6 ♥"
+    },
+    {
+      "time": "02:05 PM",
+      "result": "2 ♥"
+    },
+    {
+      "time": "02:00 PM",
+      "result": "9 ♥"
+    },
+    {
+      "time": "01:55 PM",
+      "result": "3 ♠"
+    },
+    {
+      "time": "01:50 PM",
+      "result": "7 ♠"
+    },
+    {
+      "time": "01:45 PM",
+      "result": "5 ♦"
+    },
+    {
+      "time": "01:40 PM",
+      "result": "JOKER"
+    },
+    {
+      "time": "01:35 PM",
+      "result": "8 ♣"
+    },
+    {
+      "time": "01:30 PM",
+      "result": "6 ♣"
+    },
+    {
+      "time": "01:25 PM",
+      "result": "4 ♠"
+    },
+    {
+      "time": "01:20 PM",
+      "result": "8 ♦"
+    },
+    {
+      "time": "01:15 PM",
+      "result": "3 ♣"
+    },
+    {
+      "time": "01:10 PM",
+      "result": "7 ♠"
+    },
+    {
+      "time": "01:05 PM",
+      "result": "1 ♦"
+    },
+    {
+      "time": "01:00 PM",
+      "result": "5 ♠"
+    },
+    {
+      "time": "12:55 PM",
+      "result": "9 ♣"
+    },
+    {
+      "time": "12:50 PM",
+      "result": "3 ♠"
+    },
+    {
+      "time": "12:45 PM",
+      "result": "9 ♠"
+    },
+    {
+      "time": "12:40 PM",
+      "result": "4 ♣"
+    },
+    {
+      "time": "12:35 PM",
+      "result": "4 ♠"
+    },
+    {
+      "time": "12:30 PM",
+      "result": "8 ♥"
+    },
+    {
+      "time": "12:25 PM",
+      "result": "1 ♦"
+    },
+    {
+      "time": "12:20 PM",
+      "result": "4 ♦"
+    },
+    {
+      "time": "12:15 PM",
+      "result": "4 ♣"
+    },
+    {
+      "time": "12:10 PM",
+      "result": "5 ♣"
+    },
+    {
+      "time": "12:05 PM",
+      "result": "4 ♣"
+    },
+    {
+      "time": "12:00 PM",
+      "result": "6 ♦"
+    },
+    {
+      "time": "11:55 AM",
+      "result": "8 ♣"
+    },
+    {
+      "time": "11:50 AM",
+      "result": "10 ♥"
+    },
+    {
+      "time": "11:45 AM",
+      "result": "8 ♥"
+    },
+    {
+      "time": "11:40 AM",
+      "result": "10 ♥"
+    },
+    {
+      "time": "11:35 AM",
+      "result": "4 ♥"
+    },
+    {
+      "time": "11:30 AM",
+      "result": "1 ♥"
+    },
+    {
+      "time": "11:25 AM",
+      "result": "5 ♥"
+    },
+    {
+      "time": "11:20 AM",
+      "result": "2 ♣"
+    },
+    {
+      "time": "11:15 AM",
+      "result": "1 ♠"
+    },
+    {
+      "time": "11:10 AM",
+      "result": "3 ♠"
+    },
+    {
+      "time": "11:05 AM",
+      "result": "8 ♣"
+    },
+    {
+      "time": "11:00 AM",
+      "result": "8 ♠"
+    },
+    {
+      "time": "10:55 AM",
+      "result": "2 ♦"
+    },
+    {
+      "time": "10:50 AM",
+      "result": "6 ♦"
+    },
+    {
+      "time": "10:45 AM",
+      "result": "6 ♥"
+    },
+    {
+      "time": "10:40 AM",
+      "result": "4 ♥"
+    },
+    {
+      "time": "10:35 AM",
+      "result": "9 ♦"
+    },
+    {
+      "time": "10:30 AM",
+      "result": "JOKER"
+    },
+    {
+      "time": "10:25 AM",
+      "result": "3 ♣"
+    },
+    {
+      "time": "10:20 AM",
+      "result": "10 ♥"
+    },
+    {
+      "time": "10:15 AM",
+      "result": "8 ♣"
+    },
+    {
+      "time": "10:10 AM",
+      "result": "9 ♦"
+    },
+    {
+      "time": "10:05 AM",
+      "result": "9 ♣"
+    },
+    {
+      "time": "10:00 AM",
+      "result": "1 ♣"
+    },
+    {
+      "time": "09:55 AM",
+      "result": "5 ♠"
+    },
+    {
+      "time": "09:50 AM",
+      "result": "7 ♦"
+    },
+    {
+      "time": "09:45 AM",
+      "result": "9 ♠"
+    },
+    {
+      "time": "09:40 AM",
+      "result": "3 ♠"
+    },
+    {
+      "time": "09:35 AM",
+      "result": "4 ♠"
+    },
+    {
+      "time": "09:30 AM",
+      "result": "2 ♦"
+    },
+    {
+      "time": "09:25 AM",
+      "result": "4 ♦"
+    },
+    {
+      "time": "09:20 AM",
+      "result": "8 ♠"
+    },
+    {
+      "time": "09:15 AM",
+      "result": "6 ♠"
+    },
+    {
+      "time": "09:10 AM",
+      "result": "1 ♦"
+    },
+    {
+      "time": "09:05 AM",
+      "result": "9 ♠"
+    }
+  ]
+}
